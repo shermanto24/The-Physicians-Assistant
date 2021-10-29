@@ -20,4 +20,4 @@ In each stage, the player uses the space bar to jump and the C key to crouch. In
 
 ## Download Instructions
 
-Download CollectorDriver.jar and open it. If you cannot, download Java first (https://www.java.com/en/download/) and try again.
+Download Physician_s_Assistant.jar and open it. If you cannot, download Java first (https://www.java.com/en/download/) and try again.
